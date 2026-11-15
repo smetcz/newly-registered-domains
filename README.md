@@ -246,7 +246,7 @@ Registry sources include CISA (CC0), Afnic, Traficom (CC BY 4.0) and Internetsti
 
 ## Removal requests
 
-Want a domain taken out of the feed? Any entry is removed on request through the contact page on [smet.cz/contact](https://smet.cz/contact).
+Want a domain taken out of the feed? Any entry is removed on request through [smet.cz/contact](https://smet.cz/contact).
 
 ## Links
 
