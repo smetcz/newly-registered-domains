@@ -251,7 +251,7 @@ Want a domain taken out of the feed? Any entry is removed on request through [sm
 ## Links
 
 - Feed home: https://smet.cz/nrd/
-- Documentation for humans: https://smet.cz/docs/nrd
+- Documentation for humans: https://smet.cz/docs/nrd/
 - Documentation for LLMs: https://smet.cz/docs/nrd.md
 - Manifest: https://smet.cz/nrd/data/manifest.json
 - Blog: https://smet.cz/blog
