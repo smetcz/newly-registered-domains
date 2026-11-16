@@ -4,6 +4,7 @@
 [![No API key](https://img.shields.io/badge/API%20key-not%20required-brightgreen.svg)](https://smet.cz/nrd/)
 [![History](https://img.shields.io/badge/history-90%20days-informational.svg)](https://smet.cz/nrd/data/manifest.json)
 [![Formats](https://img.shields.io/badge/formats-TXT%20%C2%B7%20JSON%20%C2%B7%20GZIP-lightgrey.svg)](#formats)
+[![Uptime](https://incidents.betterstack.com/status-badges/v1/monitor/34dkg.svg)](https://smet.betteruptime.com/)
 
 A free list of newly registered domains, updated several times a day and published by [smet.cz](https://smet.cz/) as plain files. Every file is a single HTTPS GET: no key, no signup, no client library.
 
