@@ -15,13 +15,13 @@ This repository does not store the lists themselves. It documents the feed and l
 ## Live numbers
 
 <!-- NRD-STATS:START -->
-**225,651** new domains seen so far today, November 22, 2026 (UTC).
+**240,654** new domains seen so far today, November 22, 2026 (UTC).
 
 | Window | Covers (UTC) | Domains | Download |
 | :-- | :-- | --: | :-- |
-| **Today** | 2026-11-22, still collecting | 225,651 | [TXT](https://smet.cz/nrd/data/today.txt) · [JSON](https://smet.cz/nrd/data/today.json) · [GZIP](https://smet.cz/nrd/data/today.txt.gz) |
-| **Last 7 days** | 2026-11-16 to 2026-11-22 | 2,378,410 | [TXT](https://smet.cz/nrd/data/7d.txt) · [JSON](https://smet.cz/nrd/data/7d.json) · [GZIP](https://smet.cz/nrd/data/7d.txt.gz) |
-| **Last 30 days** | 2026-10-24 to 2026-11-22 | 10,282,470 | [TXT](https://smet.cz/nrd/data/30d.txt) · [JSON](https://smet.cz/nrd/data/30d.json) · [GZIP](https://smet.cz/nrd/data/30d.txt.gz) |
+| **Today** | 2026-11-22, still collecting | 240,654 | [TXT](https://smet.cz/nrd/data/today.txt) · [JSON](https://smet.cz/nrd/data/today.json) · [GZIP](https://smet.cz/nrd/data/today.txt.gz) |
+| **Last 7 days** | 2026-11-16 to 2026-11-22 | 2,393,413 | [TXT](https://smet.cz/nrd/data/7d.txt) · [JSON](https://smet.cz/nrd/data/7d.json) · [GZIP](https://smet.cz/nrd/data/7d.txt.gz) |
+| **Last 30 days** | 2026-10-24 to 2026-11-22 | 10,297,473 | [TXT](https://smet.cz/nrd/data/30d.txt) · [JSON](https://smet.cz/nrd/data/30d.json) · [GZIP](https://smet.cz/nrd/data/30d.txt.gz) |
 | **Last 90 days** | 2026-08-24 to 2026-11-21 | 34,374,583 | one file per day, see below |
 
 Daily average over the last 90 closed days: **381,940** domains.
@@ -30,7 +30,7 @@ Daily average over the last 90 closed days: **381,940** domains.
 
 | Date (UTC) | Day | Domains | Download |
 | :-- | :-- | --: | :-- |
-| 2026-11-22 (open) | Sunday | 225,651 | [TXT](https://smet.cz/nrd/data/daily/2026-11-22.txt) · [JSON](https://smet.cz/nrd/data/daily/2026-11-22.json) · [GZIP](https://smet.cz/nrd/data/daily/2026-11-22.txt.gz) |
+| 2026-11-22 (open) | Sunday | 240,654 | [TXT](https://smet.cz/nrd/data/daily/2026-11-22.txt) · [JSON](https://smet.cz/nrd/data/daily/2026-11-22.json) · [GZIP](https://smet.cz/nrd/data/daily/2026-11-22.txt.gz) |
 | 2026-11-21 | Saturday | 512,929 | [TXT](https://smet.cz/nrd/data/daily/2026-11-21.txt) · [JSON](https://smet.cz/nrd/data/daily/2026-11-21.json) · [GZIP](https://smet.cz/nrd/data/daily/2026-11-21.txt.gz) |
 | 2026-11-20 | Friday | 178,355 | [TXT](https://smet.cz/nrd/data/daily/2026-11-20.txt) · [JSON](https://smet.cz/nrd/data/daily/2026-11-20.json) · [GZIP](https://smet.cz/nrd/data/daily/2026-11-20.txt.gz) |
 | 2026-11-19 | Thursday | 398,299 | [TXT](https://smet.cz/nrd/data/daily/2026-11-19.txt) · [JSON](https://smet.cz/nrd/data/daily/2026-11-19.json) · [GZIP](https://smet.cz/nrd/data/daily/2026-11-19.txt.gz) |
@@ -45,7 +45,7 @@ Daily average over the last 90 closed days: **381,940** domains.
 | 2026-11-10 | Tuesday | 353,282 | [TXT](https://smet.cz/nrd/data/daily/2026-11-10.txt) · [JSON](https://smet.cz/nrd/data/daily/2026-11-10.json) · [GZIP](https://smet.cz/nrd/data/daily/2026-11-10.txt.gz) |
 | 2026-11-09 | Monday | 265,342 | [TXT](https://smet.cz/nrd/data/daily/2026-11-09.txt) · [JSON](https://smet.cz/nrd/data/daily/2026-11-09.json) · [GZIP](https://smet.cz/nrd/data/daily/2026-11-09.txt.gz) |
 
-<sub>Numbers refreshed automatically from [manifest.json](https://smet.cz/nrd/data/manifest.json), last written November 22, 2026 at 08:10 UTC. 91 days are available in total.</sub>
+<sub>Numbers refreshed automatically from [manifest.json](https://smet.cz/nrd/data/manifest.json), last written November 22, 2026 at 12:10 UTC. 91 days are available in total.</sub>
 <!-- NRD-STATS:END -->
 
 ## Quick start
